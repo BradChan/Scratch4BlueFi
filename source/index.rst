@@ -15,6 +15,7 @@ Welcome to Scratch4BlueFi documentation!
     :numbered:
 
     hello/helloworld.rst
+    hello/helloworld2.rst
 
 
 
