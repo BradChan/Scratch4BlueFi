@@ -11,28 +11,13 @@
 
 .. toctree::
    :maxdepth: 1
+   
    led_blink.rst
    led_fade.rst
    button.rst
    touchpad.rst
    pixels.rst
-   speaker.rst
-   soundsensor.rst
-   lcd_text.rst
-   lightsensor_brightness.rst
-   lightsensor_priximity.rst
-   lightsensor_gesture.rst
-   lightsensor_color.rst
-   lcd_drawshape.rst
-   acce_sensor.rst
-   gyro_sensor.rst
-   magn_sensor.rst
-   temperature.rst
-   humidity.rst
-   bluetooth.rst
-   ble_radio.rst
-   wifi_apscan.rst
-   wifi_ntp.rst
+
 
 
 

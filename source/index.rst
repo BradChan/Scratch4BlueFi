@@ -26,10 +26,48 @@ BlueFi是一种硬件接口完全兼容microbit(源自BBC)的全新单板机，�
 
 BlueFi简介
 -------------------------------------
+
 .. toctree::
    :maxdepth: 2
    
    bluefi_intro/index.rst
+
+
+----------------------------------------
+
+
+.. toctree::
+   :caption: 使用BlueFi前的准备
+   :maxdepth: 1
+   
+   bluefi_setup/index.rst
+
+-------------------------------------
+
+.. toctree::
+    :caption: BlueFi教程
+    :numbered:
+
+    bluefi_tutorials/basics/index.rst
+    bluefi_tutorials/advance/index.rst
+    bluefi_tutorials/project/index.rst
+
+-------------------------------------
+
+.. toctree::
+   :caption: BlueFi API
+   :maxdepth: 1
+   
+   bluefi_api/index.rst
+
+-------------------------------------
+
+.. toctree::
+    :caption: CircuitPython
+    :numbered:
+
+    circuitpython/guide/index.rst
+    circuitpython/essentials/index.rst
 
 
 
