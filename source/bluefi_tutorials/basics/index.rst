@@ -17,6 +17,20 @@
    button.rst
    touchpad.rst
    pixels.rst
+   speaker.rst
+   soundsensor.rst
+   lcd_text.rst
+   brightness.rst
+   priximity.rst
+   gesture.rst
+   color.rst
+   drawshape.rst
+   acce.rst
+   gyro.rst
+   magn.rst
+   temp.rst
+   humidity.rst
+   
 
 
 
